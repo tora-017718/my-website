@@ -1,0 +1,111 @@
+<!DOCTYPE>html
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> 1年08組08番大庭丈虎 </title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> 
+</head>
+<body>
+<header> 
+<h1 id="m">大庭　丈虎</h1>
+ <h2 id="my">オオバ　タケトラ</h2>
+</header>
+<hr>
+<nav><ul>
+<section id="目次"><b><h3>〇<span class="highlight-word">目次</span><b></h3>
+ <h2>      ①．自己紹介</h2>
+<h3><li><a href="#部活動">    1.　部活動　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　　           　           　                                                       　　　　　　　　　　　　　　　　　　　　　　　　　　</a></li>
+<li><a href="#趣味">    2.　趣味　　　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　                      　           　           　　           　           　　　　　　　　　　　　　　　　　　　　　　　　</a></li>
+<li><a href="#特技">    3.　特技　　　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　                 　           　           　                　           　　　　　　　　　　　　　　　　　　　　　　　　　　</a></li>
+<li><a href="#好きな食べ物">    4.　好きな食べ物　　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　                      　           　           　           　　           　           　　　　　　　　　　　　　　　　　　　　　　　　　　</a></li>
+<li><a href="#web">    5.　よく見るwebサイト　　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　 　           　           　                     　           　　　　　　　　　　　　　　　　　　　　　　　　　　</a></li></p>
+</h3></ul><ul>
+<h2>②．関連リンク</h2>
+<h3><li><a href="#希望が丘">    6.　希望ケ丘高校　　　　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　           　            　             　           　               　           　           　           　　　　　　　　　　　　　　　　　　　　　　　　</a></li></h3>
+</ul></nav>
+<hr>
+<main>
+
+<section>
+<h2><i class="fas fa-user-circle"></i>自己紹介</i></h2><img src="自然写真.jpg" width="450" alt="プロフィール写真" class="profile-pic"></i><br>　  　　    プロフィールの画像　　↑<br>　　 　     自然っていいよね 。　　→ 　 <a href="https://www.takaotozan.co.jp/course/" target="_blank">高尾山の自然を見よう！</a><br>
+<section id="部活動"><h3><i class="fas fa-running"></i>部活動（高校生）</a></h3><ul>
+<li><i class="fas fa-basketball-ball">（元）バスケットボール部</i></li>
+　↳<a href="https://sports.yahoo.co.jp/basket/nba/" target="_blank">様々なスポーツのサイト</a><br>
+　↳<a href="https://www.sportingnews.com/jp/nba?gr=www" target="_blank">バスケのサイト</a>   　　　　　　　　　　　↓自作ピクトグラム（バスケ）<img src="10808大庭丈虎 (1).png" width="300">
+<h3><i class="fas fa-running"></i>部活動（中学生）</a></h3>
+<li><i class="fas fa-basketball-ball">（ずっと）バスケットボール部</i></li>
+ ↳<a href="https://www.edu.city.yokohama.lg.jp/sch2/jhs/asahikita/" target="_blank">上白根北（元旭北）中学校<i class="fas fa-school"></i></a>
+<h3><i class="fas fa-running"></i>クラブ活動等（小学生）</a></h3>
+<li><i class="fas fa-basketball-ball">（小２～）バスケットボール（ミニバス）</i></li>
+<li><i class="fas fa-feather-alt"></i>バドミントンクラブ</li>
+ ↳<a href="https://www.edu.city.yokohama.lg.jp/school/es/kamishirane/" target="_blank">上白根小学校<i class="fas fa-school"></i></a>
+</ul><a href="#目次"><section id="あ">目次へ</a></section>
+<br>
+
+<section id="趣味"><h3><i class="fas fa-lightbulb"></i>趣味</a></h3><ul>
+<li><i class="fas fa-basketball-ball">バスケットボール</i></li>
+<li><i class="fas fa-cogs"></i>問題(サイト)を作る（<i class="fas fa-tools"></i>パソコンの勉強も含めて）</li>
+　 ↳<a href="https://www.geogebra.org/calculator" target="_blank">関数作成用のサイト（GeoGebra）</a><br> 
+　 ↳<a href="file:///C:/Users/%E4%B8%88%E8%99%8E/Desktop/10808/%E6%B0%97%E5%80%99%E3%81%A8%E6%96%87%E5%8C%96.html" target="_blank">自作サイト（気候と文化・生活様式の関連性）</a>
+<li><i class="fas fa-tools"></i>パソコンの勉強</li>
+　 ↳<a href="https://www.net-marketing.co.jp/school-select/spotlight/article/8535/" target="_blank">Word練習方法紹介のサイト</a><br>
+　 ↳<a href="https://www.sikaku.gr.jp/ns/library/pp/pp05.php" target="_blank">power point勉強方法紹介のサイト</a><br>　 ↳<a href="https://blog.hubspot.jp/marketing/excel-study" target="_blank">Excel勉強用アプリのサイト</a>
+   　　　↴<h2><i class="fas fa-table"></i>Excel自作関数ノート</h2>
+   <iframe width="552" height="446" frameborder="0" scrolling="no" src="https://kpbe021-my.sharepoint.com/personal/002100k7088-affd_gl_pen-kanagawa_ed_jp/_layouts/15/Doc.aspx?sourcedoc={66989a60-e2ea-4bdd-b0e3-84700886e7f8}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe><br>コードなどを見る場合は、右下の<i class="fas fa-clone"></i>のマークを押す。<br>
+</ul><a href="#目次"><section id="あ">目次へ</a></section>
+
+<section id="特技"><h3><i class="fas fa-tools"></i>特技</a></h3><ul>
+<li><i class="fas fa-cogs"></i>少しずつタイピングが早くなっていくと楽しい！</li>
+　 ↳<a href="https://sushida.net/" target="_blank">寿司打へ</a>
+<br>　 ↳<a href="https://typingerz.com/colosseum" target="_blank">タイピングコロシアムへ</a>
+
+<li><i class="fas fa-basketball-ball">バスケ（過去の栄光）</i></li>
+</ul><a href="#目次"><section id="あ">目次へ</a></section>
+<br>
+<section id="好きな食べ物"><h3><i class="fas fa-utensils"></i>好きな食べ物</h3></a>
+<ul>
+<li><i class="fas fa-utensils"></i>甘いもの（大体好き）（画像は↓）〔フリー素材らしい〕<br>
+　 ↳<a href="https://tabelog.com/matome/19126/" target="_blank">食べログ　まとめ</a><img src="甘いもの写真" width="600"></li><br>
+
+
+<li><i class="fas fa-utensils"></i>ステーキ（画像は↓）〔フリー素材らしい〕<br>
+　 ↳<a href="http://bf-king.com/" target="_blank">バッファローキング</a>　　おすすめ<img src="ステーキ写真" width="600"></li><br>
+
+<li><i class="fas fa-utensils"></i>ラーメン（画像は↓）〔フリー素材らしい〕<br>
+　 ↳<a href="https://www.machidashoten.com/menu" target="_blank">町田商店</a><img src="ラーメン写真" width="600"></li><br>
+
+<li><i class="fas fa-utensils"></i>寿司（画像は↓）〔フリー素材〕<br>
+　 ↳<a href="https://www.hama-sushi.co.jp/" target="_blank">はま寿司</a>　　よく行く<br>
+　 ↳<a href="https://www.kappasushi.jp/" target="_blank">かっぱ寿司</a><br>
+　 ↳<a href="https://www.kurasushi.co.jp/company/" target="_blank">くら寿司</a>　　お気に入り<br>
+<ul>
+<img src="寿司写真" width="600"></li><br>
+<a href="#目次"><section id="あ">目次へ</a></section>
+<br><br>
+<section id="web"><h3>よく見るwebページ名（携帯、パソコン等）</a></h3><ul>
+<li><a href="https://www.apple.com/jp/safari/" target="_blank"><i class="fas fa-globe"></i>Safari</a>（紹介ページへ）</li>
+<li><a href="https://www.google.com/" target="_blank"><i class="fas fa-globe"></i>Google</a>(検索ページへ)</li>
+<li><a href="https://www.microsoft.com/ja-jp/edge" target="_blank"><i class="fas fa-globe"></i>Microsoft Edge</a>（ダウンロードページへ；ダウンロードしたい人用）</li>
+<li><a href="https://www.bing.com/" target="_blank"><i class="fas fa-globe"></i>Microsoft Edge</a>（検索ページへ；ダウンロードしなくていい人用）</li>
+</ul><a href="#目次"><section id="あ">目次へ</a>
+</section>
+<br>
+<section>
+<h2>関連リンク</h2>
+<ul>
+<section id="希望が丘"><li><a href="https://www.pen-kanagawa.ed.jp/kibogaoka-h//" target="_blank">
+<i class="fas fa-link"></i>希望ケ丘高校<i class="fas fa-school"></i></a>（全日制・定時制選択）</li></a>
+<li><a href="https://www.pen-kanagawa.ed.jp/kibogaoka-h/zennichi/index.html" target="_blank">
+<i class="fas fa-link"></i>希望ケ丘高校<i class="fas fa-school"></i></a>（全日制）</li>
+<li><a href="https://www.pen-kanagawa.ed.jp/kibogaoka-h/teiji/index.html" target="_blank">
+<i class="fas fa-link"></i>希望ケ丘高校<i class="fas fa-school"></i></a>（定時制）</li>
+</ul><a href="#目次"><section id="あ">目次へ</a></section>
+A棟の写真↓
+<img src="kibou.png" width="700">
+</section>
+</main>
+<div class="modal">
+</body>
+</html>
